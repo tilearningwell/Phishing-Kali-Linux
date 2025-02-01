@@ -34,7 +34,7 @@ $ setoolkit
 ```
 Selecione a primeira opção na tela que será exibida, "Social-Engineering Attacks".
 
-<img src="/imagens/1.png" />
+<img src="https://github.com/tilearningwell/Phishing-Kali-Linux/blob/8ca9e410596ef85f166e7238ba6293644ac1474a/1.png" />
 
 ## Passo 2:
 

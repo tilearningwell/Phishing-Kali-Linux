@@ -40,19 +40,19 @@ Selecione a primeira opção na tela que será exibida, "Social-Engineering Atta
 
 Selecione a segunda opção, "Website Attack Vectors".
 
-<img src="https://github.com/tilearningwell/Phishing-Kali-Linux/blob/8ca9e410596ef85f166e7238ba6293644ac1474a/2.png" />
+<img src="[https://github.com/tilearningwell/Phishing-Kali-Linux/blob/8ca9e410596ef85f166e7238ba6293644ac1474a/2.png](https://github.com/tilearningwell/Phishing-Kali-Linux/blob/508d4471bf280afc921057a02f371ecc0eed3947/2.png)" />
 
 ## Passo 3:
 
 Selecione a terceira opção, "Credential Harvester Attack Method".
 
-<img src="https://github.com/tilearningwell/Phishing-Kali-Linux/blob/8ca9e410596ef85f166e7238ba6293644ac1474a/3.png" />
+<img src="[https://github.com/tilearningwell/Phishing-Kali-Linux/blob/8ca9e410596ef85f166e7238ba6293644ac1474a/3.png](https://github.com/tilearningwell/Phishing-Kali-Linux/blob/508d4471bf280afc921057a02f371ecc0eed3947/3.png)" />
 
 ## Passo 4:
 
 Selecione a segunda opção, "Site Cloner".
 
-<img src="https://github.com/tilearningwell/Phishing-Kali-Linux/blob/8ca9e410596ef85f166e7238ba6293644ac1474a/4.png" />
+<img src="https://github.com/tilearningwell/Phishing-Kali-Linux/blob/508d4471bf280afc921057a02f371ecc0eed3947/4.png" />
 
 Essa opção nos permite criar uma fakepage estática, clonando uma página de formulário POST qualquer e rodando em um servidor particular. Caso a pessoa preencha os dados do formulário falso, vamos receber os valores e redirecionar a pessoa para a página original na qual ela estava tentando acessar (página clonada).
 

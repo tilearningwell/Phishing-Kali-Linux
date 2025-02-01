@@ -88,13 +88,13 @@ Pronto! Se tudo deu certo, os valores inseridos no formulário estarão contidos
 
 Abrindo o terminal e nos movendo para o diretório, podemos ver o arquivo harvester_DATADEUSO.txt
 
-![imagem 16](imagens/16.png "imagem")
+<img src="https://github.com/tilearningwell/Phishing-Kali-Linux/blob/8ca9e410596ef85f166e7238ba6293644ac1474a/16.png" />
 
 ---
 
 Utilizando o comando ```cat``` para exibir o conteúdo do arquivo ou simplesmente abrindo com um editor de texto, podemos ver o registro dos valores inseridos pela pessoa no formulário.
 
-![imagem 17](imagens/17.png "imagem")
+<img src="https://github.com/tilearningwell/Phishing-Kali-Linux/blob/8ca9e410596ef85f166e7238ba6293644ac1474a/17.png" />
 
 ---
 

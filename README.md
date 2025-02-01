@@ -60,7 +60,7 @@ Essa opção nos permite criar uma fakepage estática, clonando uma página de f
 
 Nesta etapa, é preciso informar o IP hospedeiro da página fake e o site a ser clonado via protocolo HTTP. O setoolkit já sugere o ip do host no momento da seleção da ferramenta Site Cloner. Basta pressionar Enter caso queira utilizar o IP sugerido ou adicionar outro de sua preferência *(Atenção para manter as mesmas configurações no apache2. As portas também precisam ser as mesmas no apache2 e no setoolkit, que escutam na porta 80 por default)*. Em seguida, é preciso inserir a URL do site que será clonado via HTTP. O processo pode demorar alguns minutos.
 
-<img src="https://github.com/tilearningwell/Phishing-Kali-Linux/blob/8ca9e410596ef85f166e7238ba6293644ac1474a/5.png" />
+<img src="https://github.com/tilearningwell/Phishing-Kali-Linux/blob/508d4471bf280afc921057a02f371ecc0eed3947/5.png" />
 
 ## Passo 6:
 
